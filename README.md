@@ -15,4 +15,4 @@ If you like to improve it I will like to say 2 things.
   
   
   
- ''Sorry for my bad English. I am so professnal in english, people just can't understand it. >..<
+ ''Sorry for my English. I am so professnal in English, people just can't understand it. >..<
