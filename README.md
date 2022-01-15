@@ -1,4 +1,4 @@
-HEllo, This is a useless project made by a useless boy Mr.Fardin.
+Hello, This is a useless project made by a useless boy Mr.Fardin.
 
 If you want to run this AI-Gf shit. you have to download python3
 
